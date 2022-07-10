@@ -26,7 +26,8 @@
 
 Some Programming Humor for you 😉             | Random Dev Meme 😆🤣 
 :-------------------------:|:-------------------------:
-![](https://readme-jokes.vercel.app/api?theme=default)  |  ![](https://random-memer.herokuapp.com/)
+![](https://readme-jokes.vercel.app/api?theme=default)  |  ![](https://random-memer.herokuapp.com/) 
+
 
 
 ### My recently played songs(PS: I love music.😌🎶)
