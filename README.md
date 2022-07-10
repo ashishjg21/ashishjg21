@@ -21,25 +21,22 @@
 
 - 💬 Talk to me about C, Cpp, Python, JavaScript, Open Source and Memes. 
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### Some Programming Humor for you 😉
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+### Random Dev Meme 😆🤣
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+### My recently played songs(PS: I love music.😌🎶)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&redirect=true)
+
 ### Connect with me.
 <a href = 'https://www.linkedin.com/in/ashish-galagali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/ashishjg_x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'ashishjg.netlify.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/ashishjg21'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
-### Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-### Spotify 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&redirect=true)
