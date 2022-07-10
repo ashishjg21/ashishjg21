@@ -24,12 +24,10 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### Some Programming Humor for you 😉
+Some Programming Humor for you 😉             | Random Dev Meme 😆🤣 
+:-------------------------:|:-------------------------:
+![](https://readme-jokes.vercel.app/api?theme=default)  |  ![](https://random-memer.herokuapp.com/)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-### Random Dev Meme 😆🤣
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ### My recently played songs(PS: I love music.😌🎶)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&redirect=true)
