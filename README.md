@@ -10,7 +10,7 @@
 </div>
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_500/MTczOTE0Mzk0ODc3Njk5MTM2/eustress.webp" />
 
 
 - 🔭 I’m currently working on 
@@ -22,16 +22,13 @@
 - 💬 Talk to me about C, Cpp, Python, JavaScript, Open Source and Memes. 
 
 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-Some Programming Humor for you 😉             | Random Dev Meme 😆🤣 
-:-------------------------:|:-------------------------:
-![](https://readme-jokes.vercel.app/api?theme=default)  |  ![](https://random-memer.herokuapp.com/) 
 
-
-
-### My recently played songs(PS: I love music.😌🎶)
+### My recently played songs(PS: I love music.😌🎶) 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mp8t5612eecdsbss36q7pmxvx&redirect=true)
+
 
 ### Connect with me.
 <a href = 'https://www.linkedin.com/in/ashish-galagali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
