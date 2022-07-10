@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_500/MTczOTE0Mzk0ODc3Njk5MTM2/eustress.webp" />
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on improving my DSA skills and weekend projects.
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
 
