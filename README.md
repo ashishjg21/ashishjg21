@@ -18,6 +18,6 @@
 ### Connect with me.
 <a href = 'https://www.linkedin.com/in/ashish-galagali'>LinkedIn</a> 
 <a href = 'https://www.twitter.com/ashishjg_x'>Twitter</a> 
-<a href = 'ashishjg.netlify.app'> Website</a> 
+<a href = 'https://ashishjg.netlify.app'> Website</a> 
  
 
