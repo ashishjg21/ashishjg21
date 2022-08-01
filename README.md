@@ -5,7 +5,7 @@
 <div size='20px'> Hi! My name is Ashish . Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+- 🌱 I’m currently learning DSA,AWS and Data Engineering. 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles. 
 
