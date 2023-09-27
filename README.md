@@ -1,4 +1,4 @@
-<h1> Hey <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> </h1>
+<h1> Hey </h1>
 <p align='center'>
 
 </p>
