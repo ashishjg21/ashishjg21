@@ -2,14 +2,14 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Ashish . Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Ashish currently working as Decision Scientist in Mu Sigma. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-- 🌱 I’m currently learning DSA,AWS and Data Engineering. 
+-  I’m currently learning DSA, AWS and Data Engineering. 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles. 
+-  I’m looking to collaborate on Projects,Tech Articles. 
 
-- 💬 Talk to me about C, Cpp, Python, JavaScript, Open Source and Memes. 
+-  Talk to me about  Python, JavaScript, Open Source and Memes. 
 
 
 
